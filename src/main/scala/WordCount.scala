@@ -1,7 +1,7 @@
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.sql.SparkSession
 
-object HelloWorld {
+object WordCount {
 
   def main(args: Array[String]): Unit = {
 
